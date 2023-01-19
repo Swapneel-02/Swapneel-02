@@ -6,9 +6,6 @@ I am a sophomore at International Institute of Information Technology Bhubaneswa
 * 🌍  I'm based in Bhubaneswar, Odisha.
 * 🧠  I'm learning Web Development and Cyber Security.
 
-<a href="https://www.github.com/Swapneel-02" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Swapneel-02?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
@@ -17,6 +14,7 @@ src="https://img.shields.io/github/followers/Swapneel-02?logo=github&style=for-t
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<img align="right" width="200" height="200" src="https://camo.githubusercontent.com/ea9b334cd3eb02a9e89ea74efee992125a0de243b85f27153f03e166af03718c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966"  alt="Code" /></a>
 </p>
 
 
