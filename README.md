@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>
 # 💫 About Me:
 Welcome to my Github profile!<br>Myself Swapneel Das, I am a sophomore at International Institute of Information Technology Bhubaneswar - Computer Engineering branch.<br>I am currently learning Web Development and Cyber Security.
