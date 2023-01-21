@@ -5,8 +5,6 @@ I am a sophomore at International Institute of Information Technology Bhubaneswa
 
 * 🌍  I'm based in Bhubaneswar, Odisha.
 * 🧠  I'm learning Web Development and Cyber Security.
-* ![image](https://user-images.githubusercontent.com/98400377/213843701-4ea5605c-6a97-437e-af87-759aa4c8dd15.png) swapneel155@gmail.com
-
 
 ### Skills
 
