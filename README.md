@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Swapneel Das
 ====================================================================================================================================
 
-I am a sophomore at International Institute of Information Technology Bhubaneswar - Computer Engineering.
+I am a sophomore at International Institute of Information Technology Bhubaneswar - Computer Engineering Branch.
 
 * 🌍  I'm based in Bhubaneswar, Odisha.
 * 🧠  I'm learning Web Development and Cyber Security.
+* ![image](https://user-images.githubusercontent.com/98400377/213843701-4ea5605c-6a97-437e-af87-759aa4c8dd15.png) swapneel155@gmail.com
+
 
 ### Skills
 
