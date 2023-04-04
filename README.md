@@ -29,7 +29,7 @@ I am a sophomore at International Institute of Information Technology Bhubaneswa
 
 <b>My GitHub Stats</b>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swapneel-02&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swapneel-02&layout=compact&theme=chartreuse-dark)](https://github.com/Swapneel-02/github-readme-stats)
 
 <a href="http://www.github.com/Swapneel-02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Swapneel-02&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
