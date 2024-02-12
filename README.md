@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a sophomore at International Institute of Information Technology Bhubaneswar - Computer Engineering Branch.
 
 * 🌍  I'm based in Bhubaneswar, Odisha.
-* 🧠  I'm currently learning Full Stack Web Development. 
+* 🧠  Currently learning Full Stack Web Development. 
 
 ### Skills
 
