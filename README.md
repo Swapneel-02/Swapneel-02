@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Swapneel Das
 ====================================================================================================================================
 
-I am a sophomore at International Institute of Information Technology Bhubaneswar - Computer Engineering Branch.
+🧠  Engineer at Zscaler.
 
-* 🌍  I'm based in Bhubaneswar, Odisha.
-* 🧠  Currently learning Full Stack Web Development. 
+* 🌍  I'm currently based in Bangalore, Karnataka. 
 
 ### Skills
 
